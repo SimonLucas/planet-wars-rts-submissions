@@ -9,8 +9,8 @@ To enter the competition, [create a new GitHub Issue](../../issues/new) in this 
 ### ✅ Submission Guidelines
 
 - Title the issue clearly, e.g., `Submission: AlphaBot`
-- Include **either** a YAML or JSON description of your agent in the **issue body**
-- If your repository is **private**, make sure to add `@SimonLucas` as a collaborator with at least read access
+- Include a YAML description of your agent in the **issue body**
+- If your repository is **private**, make sure to add `@SimonLucas` as a collaborator with read access
 
 ---
 
