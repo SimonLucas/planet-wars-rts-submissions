@@ -2,6 +2,10 @@
 
 Repo to accept entries for Planet Wars AI competitions.
 
+## View the current TrueSkill [leaderboard](results/ieee-cog-2025/leaderboard.md)
+
+
+
 ## 🚀 How to Submit Your Agent
 
 To enter the competition, [create a new GitHub Issue](../../issues/new) in this repository with the following format.
