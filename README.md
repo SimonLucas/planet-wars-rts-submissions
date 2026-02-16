@@ -2,7 +2,7 @@
 
 Repo to accept entries for Planet Wars AI competitions.
 
-## View the current TrueSkill [leaderboard](results/ieee-cog-2025/leaderboard.md)
+## View the current TrueSkill [leaderboard](results/spring-2026/leaderboard.md)
 
 
 
